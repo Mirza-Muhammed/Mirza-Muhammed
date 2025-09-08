@@ -73,7 +73,11 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 ### 🚀 My Projects
 - [**IntelliProctor**](https://github.com/Mirza-Muhammed/IntelliProctor) – AI-powered proctoring system using YOLOv5 and Flask  
 - [**SmartClass**](https://github.com/Mirza-Muhammed/SmartClass) – NFC-based classroom automation with facial recognition and behavior monitoring  
-- [**Surveillance Anomaly Detection**](https://github.com/Mirza-Muhammed/Surveillance-Anomaly-Detection) – 3D Convolutional Autoencoder in PyTorch for video anomaly detection  
+- [**Surveillance Anomaly Detection**](https://github.com/Mirza-Muhammed/Surveillance-Anomaly-Detection) – 3D Convolutional Autoencoder in PyTorch for video anomaly detection
+- ## 🎬 Demo Video of Anomaly Detection
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/JSQ_Y81evwg/0.jpg)](https://youtu.be/JSQ_Y81evwg)
+
 - [**Fake News Detection**](https://github.com/Mirza-Muhammed/Fake-News-Detection) – NLP-based text classification with TF-IDF and ML  
 - [**Cinema Ticket Booking**](https://github.com/Mirza-Muhammed/Cinema-Ticket-Booking) – LLM-integrated booking system with chatbot assistance (Ongoing)
 
