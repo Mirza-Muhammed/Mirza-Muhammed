@@ -2,7 +2,7 @@
   <h1>Hi, I’m <a href="https://mirzamuhammed.com" target="_blank">Mirza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
   <img alt="Developer Illustration" src="programmer.svg" width="540"/>
   <p>🙏 Welcome to my GitHub profile!  
-     I am a <b>Aspiring Computer Science Graduate</b> from <b>Kerala, India</b> 🇮🇳.  
+     I am a <b> Computer Science Graduate</b> from <b>Kerala, India</b> 🇮🇳.  
      I love building software 😍, learning new technologies, and solving real-world problems.
   </p>
   <div>
@@ -32,6 +32,21 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 
 ---
 
+### 🎯 Current Focus
+- Building AI/ML and LLM-based applications  
+- Learning advanced computer vision with YOLOv8  
+- Improving backend APIs with FastAPI and Python  
+
+---
+
+### 📫 Contact Me
+- Email: [mirzamuhammedofficial@gmail.com](mailto:mirzamuhammedofficial@gmail.com)  
+- LinkedIn: [Mirza Muhammed](https://www.linkedin.com/in/mirzamuhammed)  
+- Telegram: [@mirzamuhammedhere](https://t.me/mirzamuhammedhere)  
+- WhatsApp: [Chat Now](https://wa.me/919497599162/)  
+
+---
+
 ### 🛠 Languages & Tools
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -52,7 +67,6 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </div>
-
 
 ---
 
