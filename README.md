@@ -82,12 +82,12 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 - [**Cinema Ticket Booking**](https://github.com/Mirza-Muhammed/Cinema-Ticket-Booking) – LLM-integrated booking system with chatbot assistance (Ongoing)
 
 ---
+### 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mirza-Muhammed&theme=nightowl&show_icons=true&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Muhammed&theme=nightowl&show_icons=true&hide_border=false&layout=compact" />
-</p>
+![Mirza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirza-Muhammed&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirza-Muhammed&layout=compact&theme=radical)  
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirza-Muhammed&theme=nightowl&hide_border=false"/>
