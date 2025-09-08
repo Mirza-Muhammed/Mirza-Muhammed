@@ -5,7 +5,7 @@
         src="programmer.svg" width="540"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile !<br />
-        I am a <b>Aspiring Computer Science Graduate</b> 🌐 from <b>Kerala, India</b> 🇮🇳
+        I am a <b> Computer Science Graduate</b> 🌐 from <b>Kerala, India</b> 🇮🇳
         I love building softwares 😍, learning new technologies. </p>
     <div>
         <a href="https://www.linkedin.com/in/mirzamuhammed" target="_blank"><img alt="LinkedIn"
