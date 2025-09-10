@@ -48,6 +48,7 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 ---
 
 ### 🛠 Languages & Tools
+
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/AI/ML-4B0082?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
