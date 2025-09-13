@@ -32,7 +32,7 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 
 ---
 
-### 🎯 Current Focus
+### 🎯  Current Focus
 - Building AI/ML and LLM-based applications  
 - Learning advanced computer vision with YOLOv8  
 - Improving backend APIs with FastAPI and Python  
