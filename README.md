@@ -23,7 +23,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻  About Me
 I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building **automation, intelligent systems, and data-driven solutions** that solve real-world problems.  
 
 - 🔹 Currently learning and building projects in **Python, AI/ML, and Backend Development**  
