@@ -39,7 +39,7 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 
 ---
 
-### 📫 Contact Me
+### 📫  Contact Me
 - Email: [mirzamuhammedofficial@gmail.com](mailto:mirzamuhammedofficial@gmail.com)  
 - LinkedIn: [Mirza Muhammed](https://www.linkedin.com/in/mirzamuhammed)  
 - Telegram: [@mirzamuhammedhere](https://t.me/mirzamuhammedhere)  
