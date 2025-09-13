@@ -70,7 +70,7 @@ I am Mirza Muhammed, a Python Developer & AI/ML enthusiast. I focus on building 
 
 ---
 
-### 🚀 My Projects
+### 🚀  My Projects
 - [**IntelliProctor**](https://github.com/Mirza-Muhammed/IntelliProctor) – AI-powered proctoring system using YOLOv5 and Flask  
 - [**SmartClass**](https://github.com/Mirza-Muhammed/SmartClass) – NFC-based classroom automation with facial recognition and behavior monitoring  
 - [**Surveillance Anomaly Detection**](https://github.com/Mirza-Muhammed/Surveillance-Anomaly-Detection) – 3D Convolutional Autoencoder in PyTorch for video anomaly detection
