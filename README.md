@@ -1,4 +1,3 @@
-
 <div align="center">
   <h1>Hi, I’m <a href="https://mirzamuhammed.com" target="_blank">Mirza</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
   <img alt="Developer Illustration" src="programmer.svg" width="540"/>
